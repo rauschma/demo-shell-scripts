@@ -1,0 +1,12 @@
+{
+  "name": "@rauschma/demo-shell-scripts",
+  "version": "1.0.0",
+  "license": "MIT",
+  "bin": {
+    "homedir": "./src/homedir.mjs",
+    "versions": "./src/versions.mjs"
+  },
+  "dependencies": {
+    "lodash-es": "^4.17.21"
+  }
+}
