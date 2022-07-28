@@ -1,6 +1,9 @@
 {
   "name": "@rauschma/demo-shell-scripts",
-  "version": "1.0.0",
+  "version": "1.0.1",
+  "publishConfig": {
+    "access": "public"
+  },
   "license": "MIT",
   "bin": {
     "homedir": "./src/homedir.mjs",
